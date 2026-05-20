@@ -1,0 +1,287 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="740" viewBox="0 0 1120 740" role="img">
+<title>Mall customers by age, gender, and salary</title>
+<style>
+text { font-family: 'Segoe UI', Arial, sans-serif; fill: #1d252c; }
+.small { font-size: 13px; fill: #4c5963; }
+.axis { stroke: #2d343a; stroke-width: 1.2; }
+.grid { stroke: #d8d2c7; stroke-width: 1; }
+.panel-title { font-size: 18px; font-weight: 700; }
+</style>
+<rect width="100%" height="100%" fill="#fbfaf6"/>
+<rect x="28" y="28" width="1064" height="684" rx="18" fill="#ffffff" stroke="#d9d2c5"/>
+<text x="56" y="70" font-size="28" font-weight="700">Age, Gender, and Salary Analysis</text>
+<text x="56" y="96" class="small">Salary is shown as annual income in thousands of dollars (k$).</text>
+<text x="90" y="93" class="panel-title">Each Customer: Age vs Salary</text>
+<line x1="90" y1="575.00" x2="740" y2="575.00" class="grid"/>
+<text x="76" y="579.00" text-anchor="end" class="small">0</text>
+<line x1="90" y1="425.00" x2="740" y2="425.00" class="grid"/>
+<text x="76" y="429.00" text-anchor="end" class="small">50</text>
+<line x1="90" y1="275.00" x2="740" y2="275.00" class="grid"/>
+<text x="76" y="279.00" text-anchor="end" class="small">100</text>
+<line x1="90" y1="125.00" x2="740" y2="125.00" class="grid"/>
+<text x="76" y="129.00" text-anchor="end" class="small">150</text>
+<line x1="90.00" y1="125" x2="90.00" y2="575" class="grid"/>
+<text x="90.00" y="599" text-anchor="middle" class="small">10</text>
+<line x1="198.33" y1="125" x2="198.33" y2="575" class="grid"/>
+<text x="198.33" y="599" text-anchor="middle" class="small">20</text>
+<line x1="306.67" y1="125" x2="306.67" y2="575" class="grid"/>
+<text x="306.67" y="599" text-anchor="middle" class="small">30</text>
+<line x1="415.00" y1="125" x2="415.00" y2="575" class="grid"/>
+<text x="415.00" y="599" text-anchor="middle" class="small">40</text>
+<line x1="523.33" y1="125" x2="523.33" y2="575" class="grid"/>
+<text x="523.33" y="599" text-anchor="middle" class="small">50</text>
+<line x1="631.67" y1="125" x2="631.67" y2="575" class="grid"/>
+<text x="631.67" y="599" text-anchor="middle" class="small">60</text>
+<line x1="740.00" y1="125" x2="740.00" y2="575" class="grid"/>
+<text x="740.00" y="599" text-anchor="middle" class="small">70</text>
+<line x1="90" y1="575" x2="740" y2="575" class="axis"/>
+<line x1="90" y1="125" x2="90" y2="575" class="axis"/>
+<text x="415.00" y="633" text-anchor="middle" font-size="15" font-weight="600">Age</text>
+<text transform="translate(30 350.00) rotate(-90)" text-anchor="middle" font-size="15" font-weight="600">Annual income / salary (k$)</text>
+<rect x="181.40" y="528.70" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0001: Male, age 19, salary 15k</title></rect>
+<rect x="203.87" y="527.90" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0002: Male, age 21, salary 15k</title></rect>
+<circle cx="197.53" cy="527.80" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0003: Female, age 20, salary 16k</title></circle>
+<circle cx="230.83" cy="527.00" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0004: Female, age 23, salary 16k</title></circle>
+<circle cx="318.30" cy="523.20" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0005: Female, age 31, salary 17k</title></circle>
+<circle cx="221.60" cy="522.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0006: Female, age 22, salary 17k</title></circle>
+<circle cx="363.23" cy="518.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0007: Female, age 35, salary 18k</title></circle>
+<circle cx="228.43" cy="523.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0008: Female, age 23, salary 18k</title></circle>
+<rect x="669.70" y="515.90" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0009: Male, age 64, salary 19k</title></rect>
+<circle cx="305.87" cy="518.80" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0010: Female, age 30, salary 19k</title></circle>
+<rect x="703.80" y="514.30" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0011: Male, age 67, salary 19k</title></rect>
+<circle cx="361.63" cy="517.20" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0012: Female, age 35, salary 19k</title></circle>
+<circle cx="611.60" cy="513.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0013: Female, age 58, salary 20k</title></circle>
+<circle cx="244.07" cy="512.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0014: Female, age 24, salary 20k</title></circle>
+<rect x="376.40" y="513.70" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0015: Male, age 37, salary 20k</title></rect>
+<rect x="214.70" y="512.90" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0016: Male, age 22, salary 20k</title></rect>
+<circle cx="360.03" cy="512.80" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0017: Female, age 35, salary 21k</title></circle>
+<rect x="194.63" y="508.30" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0018: Male, age 20, salary 21k</title></rect>
+<rect x="542.10" y="501.50" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0019: Male, age 52, salary 23k</title></rect>
+<circle cx="362.43" cy="504.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0020: Female, age 35, salary 23k</title></circle>
+<rect x="359.53" y="496.90" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0021: Male, age 35, salary 24k</title></rect>
+<rect x="246.40" y="501.70" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0022: Male, age 25, salary 24k</title></rect>
+<circle cx="478.40" cy="501.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0023: Female, age 46, salary 25k</title></circle>
+<rect x="313.00" y="497.10" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0024: Male, age 31, salary 25k</title></rect>
+<circle cx="566.67" cy="491.00" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0025: Female, age 54, salary 28k</title></circle>
+<rect x="292.93" y="486.50" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0026: Male, age 29, salary 28k</title></rect>
+<circle cx="470.77" cy="489.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0027: Female, age 45, salary 28k</title></circle>
+<rect x="359.53" y="484.90" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0028: Male, age 35, salary 28k</title></rect>
+<circle cx="412.60" cy="490.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0029: Female, age 40, salary 29k</title></circle>
+<circle cx="229.23" cy="489.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0030: Female, age 23, salary 29k</title></circle>
+<rect x="627.17" y="482.10" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0031: Male, age 60, salary 30k</title></rect>
+<circle cx="209.17" cy="485.00" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0032: Female, age 21, salary 30k</title></circle>
+<rect x="552.93" y="471.50" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0033: Male, age 53, salary 33k</title></rect>
+<rect x="174.57" y="470.70" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0034: Male, age 18, salary 33k</title></rect>
+<circle cx="514.90" cy="473.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0035: Female, age 49, salary 33k</title></circle>
+<circle cx="206.77" cy="478.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0036: Female, age 21, salary 33k</title></circle>
+<circle cx="435.07" cy="474.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0037: Female, age 42, salary 34k</title></circle>
+<circle cx="305.87" cy="473.80" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0038: Female, age 30, salary 34k</title></circle>
+<circle cx="371.67" cy="464.00" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0039: Female, age 36, salary 37k</title></circle>
+<circle cx="199.13" cy="463.20" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0040: Female, age 20, salary 37k</title></circle>
+<circle cx="687.43" cy="459.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0041: Female, age 65, salary 38k</title></circle>
+<rect x="240.37" y="454.90" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0042: Male, age 24, salary 38k</title></rect>
+<rect x="495.57" y="456.70" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0043: Male, age 48, salary 39k</title></rect>
+<circle cx="315.90" cy="459.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0044: Female, age 31, salary 39k</title></circle>
+<circle cx="511.70" cy="458.80" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0045: Female, age 49, salary 39k</title></circle>
+<circle cx="241.67" cy="458.00" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0046: Female, age 24, salary 39k</title></circle>
+<circle cx="524.13" cy="454.20" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0047: Female, age 50, salary 40k</title></circle>
+<circle cx="275.77" cy="453.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0048: Female, age 27, salary 40k</title></circle>
+<circle cx="298.23" cy="452.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0049: Female, age 29, salary 40k</title></circle>
+<circle cx="315.10" cy="457.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0050: Female, age 31, salary 40k</title></circle>
+<circle cx="510.90" cy="450.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0051: Female, age 49, salary 42k</title></circle>
+<rect x="334.67" y="446.10" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0052: Male, age 33, salary 42k</title></rect>
+<circle cx="317.50" cy="446.00" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0053: Female, age 31, salary 43k</title></circle>
+<rect x="617.93" y="441.50" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0054: Male, age 59, salary 43k</title></rect>
+<circle cx="524.93" cy="444.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0055: Female, age 50, salary 43k</title></circle>
+<rect x="489.53" y="439.90" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0056: Male, age 47, salary 43k</title></rect>
+<circle cx="531.77" cy="445.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0057: Female, age 51, salary 44k</title></circle>
+<rect x="723.87" y="440.90" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0058: Male, age 69, salary 44k</title></rect>
+<circle cx="273.37" cy="437.80" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0059: Female, age 27, salary 46k</title></circle>
+<rect x="552.13" y="433.30" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0060: Male, age 53, salary 46k</title></rect>
+<rect x="737.10" y="432.50" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0061: Male, age 70, salary 46k</title></rect>
+<rect x="185.40" y="431.70" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0062: Male, age 19, salary 46k</title></rect>
+<circle cx="709.90" cy="431.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0063: Female, age 67, salary 47k</title></circle>
+<circle cx="564.27" cy="436.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0064: Female, age 54, salary 47k</title></circle>
+<rect x="658.87" y="428.90" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0065: Male, age 63, salary 48k</title></rect>
+<rect x="172.17" y="428.10" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0066: Male, age 18, salary 48k</title></rect>
+<circle cx="447.50" cy="431.00" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0067: Female, age 43, salary 48k</title></circle>
+<circle cx="719.13" cy="430.20" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0068: Female, age 68, salary 48k</title></circle>
+<rect x="185.40" y="425.70" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0069: Male, age 19, salary 48k</title></rect>
+<circle cx="330.73" cy="428.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0070: Female, age 32, salary 48k</title></circle>
+<rect x="733.90" y="426.70" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0071: Male, age 70, salary 49k</title></rect>
+<circle cx="489.23" cy="429.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0072: Female, age 47, salary 49k</title></circle>
+<circle cx="630.87" cy="425.80" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0073: Female, age 60, salary 50k</title></circle>
+<circle cx="631.67" cy="425.00" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0074: Female, age 60, salary 50k</title></circle>
+<rect x="617.93" y="408.50" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0075: Male, age 59, salary 54k</title></rect>
+<rect x="261.23" y="407.70" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0076: Male, age 26, salary 54k</title></rect>
+<circle cx="471.57" cy="410.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0077: Female, age 45, salary 54k</title></circle>
+<rect x="408.90" y="411.70" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0078: Male, age 40, salary 54k</title></rect>
+<circle cx="229.23" cy="414.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0079: Female, age 23, salary 54k</title></circle>
+<circle cx="511.70" cy="413.80" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0080: Female, age 49, salary 54k</title></circle>
+<rect x="595.47" y="409.30" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0081: Male, age 57, salary 54k</title></rect>
+<rect x="390.43" y="408.50" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0082: Male, age 38, salary 54k</title></rect>
+<rect x="705.40" y="407.70" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0083: Male, age 67, salary 54k</title></rect>
+<circle cx="482.40" cy="410.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0084: Female, age 46, salary 54k</title></circle>
+<circle cx="206.77" cy="415.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0085: Female, age 21, salary 54k</title></circle>
+<rect x="496.37" y="410.90" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0086: Male, age 48, salary 54k</title></rect>
+<circle cx="576.70" cy="404.80" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0087: Female, age 55, salary 57k</title></circle>
+<circle cx="220.00" cy="404.00" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0088: Female, age 22, salary 57k</title></circle>
+<circle cx="350.80" cy="400.20" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0089: Female, age 34, salary 58k</title></circle>
+<circle cx="524.93" cy="399.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0090: Female, age 50, salary 58k</title></circle>
+<circle cx="720.73" cy="395.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0091: Female, age 68, salary 59k</title></circle>
+<rect x="170.57" y="396.70" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0092: Male, age 18, salary 59k</title></rect>
+<rect x="496.37" y="392.90" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0093: Male, age 48, salary 60k</title></rect>
+<circle cx="414.20" cy="395.80" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0094: Female, age 40, salary 60k</title></circle>
+<circle cx="328.33" cy="395.00" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0095: Female, age 32, salary 60k</title></circle>
+<rect x="238.77" y="390.50" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0096: Male, age 24, salary 60k</title></rect>
+<circle cx="492.43" cy="393.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0097: Female, age 47, salary 60k</title></circle>
+<circle cx="276.57" cy="392.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0098: Female, age 27, salary 60k</title></circle>
+<rect x="495.57" y="390.70" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0099: Male, age 48, salary 61k</title></rect>
+<rect x="193.03" y="389.90" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0100: Male, age 20, salary 61k</title></rect>
+<circle cx="230.03" cy="389.80" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0101: Female, age 23, salary 62k</title></circle>
+<circle cx="512.50" cy="389.00" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0102: Female, age 49, salary 62k</title></circle>
+<rect x="704.60" y="384.50" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0103: Male, age 67, salary 62k</title></rect>
+<rect x="261.23" y="383.70" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0104: Male, age 26, salary 62k</title></rect>
+<rect x="511.20" y="382.90" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0105: Male, age 49, salary 62k</title></rect>
+<circle cx="206.77" cy="391.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0106: Female, age 21, salary 62k</title></circle>
+<circle cx="695.07" cy="387.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0107: Female, age 66, salary 63k</title></circle>
+<rect x="562.17" y="383.10" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0108: Male, age 54, salary 63k</title></rect>
+<rect x="714.63" y="382.30" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0109: Male, age 68, salary 63k</title></rect>
+<rect x="693.77" y="381.50" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0110: Male, age 66, salary 63k</title></rect>
+<rect x="683.73" y="380.70" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0111: Male, age 65, salary 63k</title></rect>
+<circle cx="189.90" cy="383.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0112: Female, age 19, salary 63k</title></circle>
+<circle cx="390.93" cy="385.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0113: Female, age 38, salary 64k</title></circle>
+<rect x="182.20" y="380.90" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0114: Male, age 19, salary 64k</title></rect>
+<circle cx="175.87" cy="380.80" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0115: Female, age 18, salary 65k</title></circle>
+<circle cx="187.50" cy="380.00" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0116: Female, age 19, salary 65k</title></circle>
+<circle cx="664.97" cy="379.20" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0117: Female, age 63, salary 65k</title></circle>
+<circle cx="514.10" cy="378.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0118: Female, age 49, salary 65k</title></circle>
+<circle cx="536.57" cy="371.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0119: Female, age 51, salary 67k</title></circle>
+<circle cx="520.93" cy="376.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0120: Female, age 50, salary 67k</title></circle>
+<rect x="268.87" y="371.90" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0121: Male, age 27, salary 67k</title></rect>
+<circle cx="392.53" cy="374.80" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0122: Female, age 38, salary 67k</title></circle>
+<circle cx="415.00" cy="368.00" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0123: Female, age 40, salary 69k</title></circle>
+<rect x="401.27" y="363.50" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0124: Male, age 39, salary 69k</title></rect>
+<circle cx="232.43" cy="363.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0125: Female, age 23, salary 70k</title></circle>
+<circle cx="319.90" cy="362.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0126: Female, age 31, salary 70k</title></circle>
+<rect x="441.40" y="360.70" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0127: Male, age 43, salary 71k</title></rect>
+<rect x="409.70" y="359.90" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0128: Male, age 40, salary 71k</title></rect>
+<rect x="616.33" y="359.10" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0129: Male, age 59, salary 71k</title></rect>
+<rect x="389.63" y="358.30" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0130: Male, age 38, salary 71k</title></rect>
+<rect x="487.93" y="357.50" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0131: Male, age 47, salary 71k</title></rect>
+<rect x="402.07" y="356.70" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0132: Male, age 39, salary 71k</title></rect>
+<circle cx="254.90" cy="356.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0133: Female, age 25, salary 72k</title></circle>
+<circle cx="315.10" cy="361.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0134: Female, age 31, salary 72k</title></circle>
+<rect x="193.03" y="353.90" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0135: Male, age 20, salary 73k</title></rect>
+<circle cx="295.03" cy="356.80" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0136: Female, age 29, salary 73k</title></circle>
+<circle cx="458.33" cy="356.00" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0137: Female, age 44, salary 73k</title></circle>
+<rect x="325.43" y="351.50" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0138: Male, age 32, salary 73k</title></rect>
+<rect x="185.40" y="347.70" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0139: Male, age 19, salary 74k</title></rect>
+<circle cx="363.23" cy="350.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0140: Female, age 35, salary 74k</title></circle>
+<circle cx="596.77" cy="352.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0141: Female, age 57, salary 75k</title></circle>
+<rect x="323.03" y="347.90" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0142: Male, age 32, salary 75k</title></rect>
+<circle cx="284.20" cy="347.80" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0143: Female, age 28, salary 76k</title></circle>
+<circle cx="328.33" cy="347.00" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0144: Female, age 32, salary 76k</title></circle>
+<rect x="249.60" y="339.50" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0145: Male, age 25, salary 77k</title></rect>
+<rect x="282.90" y="338.70" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0146: Male, age 28, salary 77k</title></rect>
+<rect x="500.37" y="337.90" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0147: Male, age 48, salary 77k</title></rect>
+<circle cx="325.93" cy="346.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0148: Female, age 32, salary 77k</title></circle>
+<circle cx="348.40" cy="342.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0149: Female, age 34, salary 78k</title></circle>
+<rect x="345.50" y="338.10" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0150: Male, age 34, salary 78k</title></rect>
+<rect x="443.80" y="337.30" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0151: Male, age 43, salary 78k</title></rect>
+<rect x="401.27" y="336.50" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0152: Male, age 39, salary 78k</title></rect>
+<circle cx="459.93" cy="339.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0153: Female, age 44, salary 78k</title></circle>
+<circle cx="395.73" cy="338.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0154: Female, age 38, salary 78k</title></circle>
+<circle cx="488.43" cy="343.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0155: Female, age 47, salary 78k</title></circle>
+<circle cx="272.57" cy="342.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0156: Female, age 27, salary 78k</title></circle>
+<rect x="378.00" y="338.10" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0157: Male, age 37, salary 78k</title></rect>
+<circle cx="306.67" cy="341.00" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0158: Female, age 30, salary 78k</title></circle>
+<rect x="347.10" y="336.50" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0159: Male, age 34, salary 78k</title></rect>
+<circle cx="308.27" cy="339.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0160: Female, age 30, salary 78k</title></circle>
+<circle cx="590.73" cy="335.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0161: Female, age 56, salary 79k</title></circle>
+<circle cx="293.43" cy="340.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0162: Female, age 29, salary 79k</title></circle>
+<rect x="182.20" y="329.90" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0163: Male, age 19, salary 81k</title></rect>
+<circle cx="316.70" cy="332.80" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0164: Female, age 31, salary 81k</title></circle>
+<rect x="519.63" y="316.30" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0165: Male, age 50, salary 85k</title></rect>
+<circle cx="372.47" cy="319.20" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0166: Female, age 36, salary 85k</title></circle>
+<rect x="434.57" y="311.70" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0167: Male, age 42, salary 86k</title></rect>
+<circle cx="341.57" cy="314.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0168: Female, age 33, salary 86k</title></circle>
+<circle cx="369.27" cy="316.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0169: Female, age 36, salary 87k</title></circle>
+<rect x="323.03" y="311.90" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0170: Male, age 32, salary 87k</title></rect>
+<rect x="410.50" y="311.10" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0171: Male, age 40, salary 87k</title></rect>
+<rect x="281.30" y="310.30" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0172: Male, age 28, salary 87k</title></rect>
+<rect x="368.77" y="309.50" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0173: Male, age 36, salary 87k</title></rect>
+<rect x="369.57" y="308.70" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0174: Male, age 36, salary 87k</title></rect>
+<circle cx="547.40" cy="308.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0175: Female, age 52, salary 88k</title></circle>
+<circle cx="304.27" cy="313.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0176: Female, age 30, salary 88k</title></circle>
+<rect x="604.70" y="308.90" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0177: Male, age 58, salary 88k</title></rect>
+<rect x="269.67" y="308.10" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0178: Male, age 27, salary 88k</title></rect>
+<rect x="617.13" y="292.30" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0179: Male, age 59, salary 93k</title></rect>
+<rect x="357.93" y="291.50" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0180: Male, age 35, salary 93k</title></rect>
+<circle cx="384.10" cy="282.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0181: Female, age 37, salary 97k</title></circle>
+<circle cx="330.73" cy="281.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0182: Female, age 32, salary 97k</title></circle>
+<rect x="473.90" y="279.70" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0183: Male, age 46, salary 98k</title></rect>
+<circle cx="294.23" cy="282.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0184: Female, age 29, salary 98k</title></circle>
+<circle cx="425.03" cy="278.80" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0185: Female, age 41, salary 99k</title></circle>
+<rect x="302.97" y="274.30" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0186: Male, age 30, salary 99k</title></rect>
+<circle cx="567.47" cy="271.20" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0187: Female, age 54, salary 101k</title></circle>
+<rect x="282.90" y="266.70" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0188: Male, age 28, salary 101k</title></rect>
+<circle cx="428.23" cy="263.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0189: Female, age 41, salary 103k</title></circle>
+<circle cx="369.27" cy="268.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0190: Female, age 36, salary 103k</title></circle>
+<circle cx="348.40" cy="267.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0191: Female, age 34, salary 103k</title></circle>
+<circle cx="327.53" cy="266.80" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0192: Female, age 32, salary 103k</title></circle>
+<rect x="335.47" y="232.30" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0193: Male, age 33, salary 113k</title></rect>
+<circle cx="394.13" cy="235.20" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0194: Female, age 38, salary 113k</title></circle>
+<circle cx="492.43" cy="213.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0195: Female, age 47, salary 120k</title></circle>
+<circle cx="363.23" cy="212.60" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0196: Female, age 35, salary 120k</title></circle>
+<circle cx="466.77" cy="199.40" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Customer 0197: Female, age 45, salary 126k</title></circle>
+<rect x="323.03" y="194.90" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0198: Male, age 32, salary 126k</title></rect>
+<rect x="323.83" y="161.10" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0199: Male, age 32, salary 137k</title></rect>
+<rect x="302.97" y="160.30" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Customer 0200: Male, age 30, salary 137k</title></rect>
+<rect x="554" y="121" width="160" height="80" rx="8" fill="#fffdf8" stroke="#d9d2c5"/>
+<text x="570" y="143" font-size="14" font-weight="700">Gender</text>
+<circle cx="578.00" cy="164.00" r="4.1" fill="#d84f67" stroke="#8a263a" stroke-width="1" opacity="0.82"><title>Female</title></circle>
+<text x="594" y="168" class="small">Female</text>
+<rect x="574.30" y="185.30" width="7.4" height="7.4" fill="#177e89" stroke="#084c55" stroke-width="1" opacity="0.82"><title>Male</title></rect>
+<text x="594" y="193" class="small">Male</text>
+<text x="780" y="120" class="panel-title">Average Salary</text>
+<text x="780" y="142" class="small">Grouped by age band and gender</text>
+<line x1="805.00" y1="170" x2="805.00" y2="485" class="grid"/>
+<text x="805.00" y="507" text-anchor="middle" class="small">0</text>
+<line x1="866.25" y1="170" x2="866.25" y2="485" class="grid"/>
+<text x="866.25" y="507" text-anchor="middle" class="small">20</text>
+<line x1="927.50" y1="170" x2="927.50" y2="485" class="grid"/>
+<text x="927.50" y="507" text-anchor="middle" class="small">40</text>
+<line x1="988.75" y1="170" x2="988.75" y2="485" class="grid"/>
+<text x="988.75" y="507" text-anchor="middle" class="small">60</text>
+<line x1="1050.00" y1="170" x2="1050.00" y2="485" class="grid"/>
+<text x="1050.00" y="507" text-anchor="middle" class="small">80</text>
+<line x1="805" y1="485" x2="1050" y2="485" class="axis"/>
+<text x="927.50" y="537" text-anchor="middle" font-size="14" font-weight="600">Average salary (k$)</text>
+<text x="791" y="191.00" text-anchor="end" class="small">Under 25</text>
+<rect x="805" y="182.00" width="130.08" height="13.00" rx="3" fill="#d84f67" stroke="#8a263a" opacity="0.82"><title>Under 25 Female average salary: 42.5k</title></rect>
+<text x="940.08" y="193.00" class="small">42.5</text>
+<rect x="805" y="199.00" width="144.70" height="13.00" rx="3" fill="#177e89" stroke="#084c55" opacity="0.82"><title>Under 25 Male average salary: 47.2k</title></rect>
+<text x="954.70" y="210.00" class="small">47.2</text>
+<text x="791" y="254.00" text-anchor="end" class="small">25-34</text>
+<rect x="805" y="245.00" width="201.65" height="13.00" rx="3" fill="#d84f67" stroke="#8a263a" opacity="0.82"><title>25-34 Female average salary: 65.8k</title></rect>
+<text x="1011.65" y="256.00" class="small">65.8</text>
+<rect x="805" y="262.00" width="241.52" height="13.00" rx="3" fill="#177e89" stroke="#084c55" opacity="0.82"><title>25-34 Male average salary: 78.9k</title></rect>
+<text x="1051.52" y="273.00" class="small">78.9</text>
+<text x="791" y="317.00" text-anchor="end" class="small">35-44</text>
+<rect x="805" y="308.00" width="204.04" height="13.00" rx="3" fill="#d84f67" stroke="#8a263a" opacity="0.82"><title>35-44 Female average salary: 66.6k</title></rect>
+<text x="1014.04" y="319.00" class="small">66.6</text>
+<rect x="805" y="325.00" width="205.36" height="13.00" rx="3" fill="#177e89" stroke="#084c55" opacity="0.82"><title>35-44 Male average salary: 67.1k</title></rect>
+<text x="1015.36" y="336.00" class="small">67.1</text>
+<text x="791" y="380.00" text-anchor="end" class="small">45-54</text>
+<rect x="805" y="371.00" width="180.32" height="13.00" rx="3" fill="#d84f67" stroke="#8a263a" opacity="0.82"><title>45-54 Female average salary: 58.9k</title></rect>
+<text x="990.32" y="382.00" class="small">58.9</text>
+<rect x="805" y="388.00" width="178.28" height="13.00" rx="3" fill="#177e89" stroke="#084c55" opacity="0.82"><title>45-54 Male average salary: 58.2k</title></rect>
+<text x="988.28" y="399.00" class="small">58.2</text>
+<text x="791" y="443.00" text-anchor="end" class="small">55+</text>
+<rect x="805" y="434.00" width="166.14" height="13.00" rx="3" fill="#d84f67" stroke="#8a263a" opacity="0.82"><title>55+ Female average salary: 54.2k</title></rect>
+<text x="976.14" y="445.00" class="small">54.2</text>
+<rect x="805" y="451.00" width="163.84" height="13.00" rx="3" fill="#177e89" stroke="#084c55" opacity="0.82"><title>55+ Male average salary: 53.5k</title></rect>
+<text x="973.84" y="462.00" class="small">53.5</text>
+<text x="56" y="660" class="small">Tip: open this SVG in a browser and hover over points or bars to see customer and average details.</text>
+</svg>

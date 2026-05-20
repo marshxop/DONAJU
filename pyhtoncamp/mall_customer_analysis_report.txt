@@ -1,0 +1,64 @@
+Mall Customer Data Analysis
+============================
+Total customers: 200
+
+Column Summary
+--------------
+Age:
+  Count:   200
+  Missing: 0
+  Min/Q1/Median/Mean/Q3/Max: 18.00 / 28.75 / 36.00 / 38.85 / 49.00 / 70.00
+  Std dev: 13.93
+
+Annual Income (k$):
+  Count:   200
+  Missing: 0
+  Min/Q1/Median/Mean/Q3/Max: 15.00 / 41.50 / 61.50 / 60.56 / 78.00 / 137.00
+  Std dev: 26.20
+
+Spending Score (1-100):
+  Count:   200
+  Missing: 0
+  Min/Q1/Median/Mean/Q3/Max: 1.00 / 34.75 / 50.00 / 50.20 / 73.00 / 99.00
+  Std dev: 25.76
+
+Gender Distribution
+-------------------
+Female                    112 ( 56.0%) |##################..............|
+Male                       88 ( 44.0%) |##############..................|
+
+Age Groups
+----------
+Under 25                   35 ( 17.5%) |######..........................|
+25-34                      54 ( 27.0%) |#########.......................|
+35-44                      42 ( 21.0%) |#######.........................|
+45-54                      39 ( 19.5%) |######..........................|
+55+                        30 ( 15.0%) |#####...........................|
+
+Rule-Based Customer Segments
+----------------------------
+Balanced shoppers          76 ( 38.0%) |############....................|
+Premium targets            38 ( 19.0%) |######..........................|
+High income, low spend     37 ( 18.5%) |######..........................|
+Budget enthusiasts         23 ( 11.5%) |####............................|
+Low activity               22 ( 11.0%) |####............................|
+Active shoppers             4 (  2.0%) |#...............................|
+
+Correlations
+------------
+Age vs Annual Income (k$): -0.012
+Age vs Spending Score (1-100): -0.327
+Annual Income (k$) vs Spending Score (1-100): 0.010
+
+Top 10 Customers By Spending Score
+----------------------------------
+Customer 0012: Female, age 35, income 19k, spending 99
+Customer 0020: Female, age 35, income 23k, spending 98
+Customer 0146: Male, age 28, income 77k, spending 97
+Customer 0186: Male, age 30, income 99k, spending 97
+Customer 0128: Male, age 40, income 71k, spending 95
+Customer 0168: Female, age 33, income 86k, spending 95
+Customer 0008: Female, age 23, income 18k, spending 94
+Customer 0142: Male, age 32, income 75k, spending 93
+Customer 0164: Female, age 31, income 81k, spending 93
+Customer 0034: Male, age 18, income 33k, spending 92

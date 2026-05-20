@@ -1,0 +1,201 @@
+CustomerID,Genre,Age,Annual Income (k$),Spending Score (1-100),Age Group,Customer Segment,Income-Spending Cluster
+0001,Male,19,15,39,Under 25,Low activity,3
+0002,Male,21,15,81,Under 25,Budget enthusiasts,5
+0003,Female,20,16,6,Under 25,Low activity,3
+0004,Female,23,16,77,Under 25,Budget enthusiasts,5
+0005,Female,31,17,40,25-34,Balanced shoppers,3
+0006,Female,22,17,76,Under 25,Budget enthusiasts,5
+0007,Female,35,18,6,35-44,Low activity,3
+0008,Female,23,18,94,Under 25,Budget enthusiasts,5
+0009,Male,64,19,3,55+,Low activity,3
+0010,Female,30,19,72,25-34,Budget enthusiasts,5
+0011,Male,67,19,14,55+,Low activity,3
+0012,Female,35,19,99,35-44,Budget enthusiasts,5
+0013,Female,58,20,15,55+,Low activity,3
+0014,Female,24,20,77,Under 25,Budget enthusiasts,5
+0015,Male,37,20,13,35-44,Low activity,3
+0016,Male,22,20,79,Under 25,Budget enthusiasts,5
+0017,Female,35,21,35,35-44,Low activity,3
+0018,Male,20,21,66,Under 25,Budget enthusiasts,5
+0019,Male,52,23,29,45-54,Low activity,3
+0020,Female,35,23,98,35-44,Budget enthusiasts,5
+0021,Male,35,24,35,35-44,Low activity,3
+0022,Male,25,24,73,25-34,Budget enthusiasts,5
+0023,Female,46,25,5,45-54,Low activity,3
+0024,Male,31,25,73,25-34,Budget enthusiasts,5
+0025,Female,54,28,14,45-54,Low activity,3
+0026,Male,29,28,82,25-34,Budget enthusiasts,5
+0027,Female,45,28,32,45-54,Low activity,3
+0028,Male,35,28,61,35-44,Budget enthusiasts,5
+0029,Female,40,29,31,35-44,Low activity,3
+0030,Female,23,29,87,Under 25,Budget enthusiasts,5
+0031,Male,60,30,4,55+,Low activity,3
+0032,Female,21,30,73,Under 25,Budget enthusiasts,5
+0033,Male,53,33,4,45-54,Low activity,3
+0034,Male,18,33,92,Under 25,Budget enthusiasts,5
+0035,Female,49,33,14,45-54,Low activity,3
+0036,Female,21,33,81,Under 25,Budget enthusiasts,5
+0037,Female,42,34,17,35-44,Low activity,3
+0038,Female,30,34,73,25-34,Budget enthusiasts,5
+0039,Female,36,37,26,35-44,Low activity,3
+0040,Female,20,37,75,Under 25,Budget enthusiasts,5
+0041,Female,65,38,35,55+,Low activity,3
+0042,Male,24,38,92,Under 25,Budget enthusiasts,5
+0043,Male,48,39,36,45-54,Low activity,3
+0044,Female,31,39,61,25-34,Budget enthusiasts,5
+0045,Female,49,39,28,45-54,Low activity,3
+0046,Female,24,39,65,Under 25,Budget enthusiasts,5
+0047,Female,50,40,55,45-54,Balanced shoppers,5
+0048,Female,27,40,47,25-34,Balanced shoppers,5
+0049,Female,29,40,42,25-34,Balanced shoppers,5
+0050,Female,31,40,42,25-34,Balanced shoppers,5
+0051,Female,49,42,52,45-54,Balanced shoppers,5
+0052,Male,33,42,60,25-34,Active shoppers,5
+0053,Female,31,43,54,25-34,Balanced shoppers,5
+0054,Male,59,43,60,55+,Active shoppers,5
+0055,Female,50,43,45,45-54,Balanced shoppers,5
+0056,Male,47,43,41,45-54,Balanced shoppers,5
+0057,Female,51,44,50,45-54,Balanced shoppers,5
+0058,Male,69,44,46,55+,Balanced shoppers,5
+0059,Female,27,46,51,25-34,Balanced shoppers,5
+0060,Male,53,46,46,45-54,Balanced shoppers,5
+0061,Male,70,46,56,55+,Balanced shoppers,5
+0062,Male,19,46,55,Under 25,Balanced shoppers,5
+0063,Female,67,47,52,55+,Balanced shoppers,5
+0064,Female,54,47,59,45-54,Balanced shoppers,5
+0065,Male,63,48,51,55+,Balanced shoppers,5
+0066,Male,18,48,59,Under 25,Balanced shoppers,5
+0067,Female,43,48,50,35-44,Balanced shoppers,5
+0068,Female,68,48,48,55+,Balanced shoppers,5
+0069,Male,19,48,59,Under 25,Balanced shoppers,5
+0070,Female,32,48,47,25-34,Balanced shoppers,5
+0071,Male,70,49,55,55+,Balanced shoppers,5
+0072,Female,47,49,42,45-54,Balanced shoppers,5
+0073,Female,60,50,49,55+,Balanced shoppers,5
+0074,Female,60,50,56,55+,Balanced shoppers,5
+0075,Male,59,54,47,55+,Balanced shoppers,5
+0076,Male,26,54,54,25-34,Balanced shoppers,5
+0077,Female,45,54,53,45-54,Balanced shoppers,5
+0078,Male,40,54,48,35-44,Balanced shoppers,5
+0079,Female,23,54,52,Under 25,Balanced shoppers,5
+0080,Female,49,54,42,45-54,Balanced shoppers,5
+0081,Male,57,54,51,55+,Balanced shoppers,5
+0082,Male,38,54,55,35-44,Balanced shoppers,5
+0083,Male,67,54,41,55+,Balanced shoppers,5
+0084,Female,46,54,44,45-54,Balanced shoppers,5
+0085,Female,21,54,57,Under 25,Balanced shoppers,5
+0086,Male,48,54,46,45-54,Balanced shoppers,5
+0087,Female,55,57,58,55+,Balanced shoppers,5
+0088,Female,22,57,55,Under 25,Balanced shoppers,5
+0089,Female,34,58,60,25-34,Active shoppers,5
+0090,Female,50,58,46,45-54,Balanced shoppers,5
+0091,Female,68,59,55,55+,Balanced shoppers,5
+0092,Male,18,59,41,Under 25,Balanced shoppers,5
+0093,Male,48,60,49,45-54,Balanced shoppers,5
+0094,Female,40,60,40,35-44,Balanced shoppers,5
+0095,Female,32,60,42,25-34,Balanced shoppers,5
+0096,Male,24,60,52,Under 25,Balanced shoppers,5
+0097,Female,47,60,47,45-54,Balanced shoppers,5
+0098,Female,27,60,50,25-34,Balanced shoppers,5
+0099,Male,48,61,42,45-54,Balanced shoppers,5
+0100,Male,20,61,49,Under 25,Balanced shoppers,5
+0101,Female,23,62,41,Under 25,Balanced shoppers,5
+0102,Female,49,62,48,45-54,Balanced shoppers,5
+0103,Male,67,62,59,55+,Balanced shoppers,5
+0104,Male,26,62,55,25-34,Balanced shoppers,5
+0105,Male,49,62,56,45-54,Balanced shoppers,5
+0106,Female,21,62,42,Under 25,Balanced shoppers,5
+0107,Female,66,63,50,55+,Balanced shoppers,5
+0108,Male,54,63,46,45-54,Balanced shoppers,5
+0109,Male,68,63,43,55+,Balanced shoppers,5
+0110,Male,66,63,48,55+,Balanced shoppers,5
+0111,Male,65,63,52,55+,Balanced shoppers,5
+0112,Female,19,63,54,Under 25,Balanced shoppers,5
+0113,Female,38,64,42,35-44,Balanced shoppers,5
+0114,Male,19,64,46,Under 25,Balanced shoppers,5
+0115,Female,18,65,48,Under 25,Balanced shoppers,5
+0116,Female,19,65,50,Under 25,Balanced shoppers,5
+0117,Female,63,65,43,55+,Balanced shoppers,5
+0118,Female,49,65,59,45-54,Balanced shoppers,5
+0119,Female,51,67,43,45-54,Balanced shoppers,5
+0120,Female,50,67,57,45-54,Balanced shoppers,5
+0121,Male,27,67,56,25-34,Balanced shoppers,5
+0122,Female,38,67,40,35-44,Balanced shoppers,5
+0123,Female,40,69,58,35-44,Balanced shoppers,5
+0124,Male,39,69,91,35-44,Active shoppers,1
+0125,Female,23,70,29,Under 25,"High income, low spend",2
+0126,Female,31,70,77,25-34,Premium targets,1
+0127,Male,43,71,35,35-44,"High income, low spend",2
+0128,Male,40,71,95,35-44,Premium targets,1
+0129,Male,59,71,11,55+,"High income, low spend",2
+0130,Male,38,71,75,35-44,Premium targets,1
+0131,Male,47,71,9,45-54,"High income, low spend",2
+0132,Male,39,71,75,35-44,Premium targets,1
+0133,Female,25,72,34,25-34,"High income, low spend",2
+0134,Female,31,72,71,25-34,Premium targets,1
+0135,Male,20,73,5,Under 25,"High income, low spend",2
+0136,Female,29,73,88,25-34,Premium targets,1
+0137,Female,44,73,7,35-44,"High income, low spend",2
+0138,Male,32,73,73,25-34,Premium targets,1
+0139,Male,19,74,10,Under 25,"High income, low spend",2
+0140,Female,35,74,72,35-44,Premium targets,1
+0141,Female,57,75,5,55+,"High income, low spend",2
+0142,Male,32,75,93,25-34,Premium targets,1
+0143,Female,28,76,40,25-34,Balanced shoppers,2
+0144,Female,32,76,87,25-34,Premium targets,1
+0145,Male,25,77,12,25-34,"High income, low spend",2
+0146,Male,28,77,97,25-34,Premium targets,1
+0147,Male,48,77,36,45-54,"High income, low spend",2
+0148,Female,32,77,74,25-34,Premium targets,1
+0149,Female,34,78,22,25-34,"High income, low spend",2
+0150,Male,34,78,90,25-34,Premium targets,1
+0151,Male,43,78,17,35-44,"High income, low spend",2
+0152,Male,39,78,88,35-44,Premium targets,1
+0153,Female,44,78,20,35-44,"High income, low spend",2
+0154,Female,38,78,76,35-44,Premium targets,1
+0155,Female,47,78,16,45-54,"High income, low spend",2
+0156,Female,27,78,89,25-34,Premium targets,1
+0157,Male,37,78,1,35-44,"High income, low spend",2
+0158,Female,30,78,78,25-34,Premium targets,1
+0159,Male,34,78,1,25-34,"High income, low spend",2
+0160,Female,30,78,73,25-34,Premium targets,1
+0161,Female,56,79,35,55+,"High income, low spend",2
+0162,Female,29,79,83,25-34,Premium targets,1
+0163,Male,19,81,5,Under 25,"High income, low spend",2
+0164,Female,31,81,93,25-34,Premium targets,1
+0165,Male,50,85,26,45-54,"High income, low spend",2
+0166,Female,36,85,75,35-44,Premium targets,1
+0167,Male,42,86,20,35-44,"High income, low spend",2
+0168,Female,33,86,95,25-34,Premium targets,1
+0169,Female,36,87,27,35-44,"High income, low spend",2
+0170,Male,32,87,63,25-34,Premium targets,1
+0171,Male,40,87,13,35-44,"High income, low spend",2
+0172,Male,28,87,75,25-34,Premium targets,1
+0173,Male,36,87,10,35-44,"High income, low spend",2
+0174,Male,36,87,92,35-44,Premium targets,1
+0175,Female,52,88,13,45-54,"High income, low spend",2
+0176,Female,30,88,86,25-34,Premium targets,1
+0177,Male,58,88,15,55+,"High income, low spend",2
+0178,Male,27,88,69,25-34,Premium targets,1
+0179,Male,59,93,14,55+,"High income, low spend",2
+0180,Male,35,93,90,35-44,Premium targets,1
+0181,Female,37,97,32,35-44,"High income, low spend",2
+0182,Female,32,97,86,25-34,Premium targets,1
+0183,Male,46,98,15,45-54,"High income, low spend",2
+0184,Female,29,98,88,25-34,Premium targets,1
+0185,Female,41,99,39,35-44,"High income, low spend",4
+0186,Male,30,99,97,25-34,Premium targets,1
+0187,Female,54,101,24,45-54,"High income, low spend",2
+0188,Male,28,101,68,25-34,Premium targets,1
+0189,Female,41,103,17,35-44,"High income, low spend",2
+0190,Female,36,103,85,35-44,Premium targets,1
+0191,Female,34,103,23,25-34,"High income, low spend",2
+0192,Female,32,103,69,25-34,Premium targets,1
+0193,Male,33,113,8,25-34,"High income, low spend",2
+0194,Female,38,113,91,35-44,Premium targets,1
+0195,Female,47,120,16,45-54,"High income, low spend",4
+0196,Female,35,120,79,35-44,Premium targets,4
+0197,Female,45,126,28,45-54,"High income, low spend",4
+0198,Male,32,126,74,25-34,Premium targets,4
+0199,Male,32,137,18,25-34,"High income, low spend",4
+0200,Male,30,137,83,25-34,Premium targets,4
